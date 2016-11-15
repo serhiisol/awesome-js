@@ -6,24 +6,25 @@
 
 ## NodeJS
 #### Tutorials
-* [Input Validation in Express with express-validator](https://booker.codes/input-validation-in-express-with-express-validator/?utm_source=nodeweekly&utm_medium=email)
-* [How to keep your node processes running forever](http://blog.bithound.io/how-to-keep-your-node-processes-running-forever/?utm_source=nodeweekly&utm_medium=email)
-* [Build a Twitch.tv Chat Bot in 10 Minutes with Node.js - YouTube video](https://www.youtube.com/watch?v=K6N9dSMb7sM)
-* [Debugging with Node](http://krasimirtsonev.com/blog/article/debugging-with-node?utm_source=nodeweekly&utm_medium=email)
-* [Building a photo search in a weekend - Elasticsearch + Docker](http://blog.sandeepchivukula.com/posts/2016/03/06/photo-search/?utm_source=nodeweekly&utm_medium=email)
-* [Monitor Nodejs - Datadog](https://www.datadoghq.com/monitor-nodejs/?utm_source=Advertisement&utm_medium=CooperPress&utm_campaign=CooperPress-NodeWeekly&utm_content=node)
-* [Adding Social Sharing in a Node.js Single-Page Application](http://code.tutsplus.com/tutorials/adding-social-sharing-in-a-nodejs-single-page-application--cms-25530?utm_source=nodeweekly&utm_medium=email)
-* [Web Crawling with Node, PhantomJS and Horseman](https://www.sitepoint.com/web-crawling-node-phantomjs-horseman/?utm_source=nodeweekly&utm_medium=email)
+* [Input Validation in Express with express-validator](https://booker.codes/input-validation-in-express-with-express-validator/)
+* [How to keep your node processes running forever](http://blog.bithound.io/how-to-keep-your-node-processes-running-forever/)
+* [Debugging with Node](http://krasimirtsonev.com/blog/article/debugging-with-node)
+* [Building a photo search in a weekend - Elasticsearch + Docker](http://blog.sandeepchivukula.com/posts/2016/03/06/photo-search/)
+* [Adding Social Sharing in a Node.js Single-Page Application](http://code.tutsplus.com/tutorials/adding-social-sharing-in-a-nodejs-single-page-application--cms-25530)
+* [Web Crawling with Node, PhantomJS and Horseman](https://www.sitepoint.com/web-crawling-node-phantomjs-horseman/)
 * [10 Habits of a Happy Node Hacker (2016) - Heroku](https://blog.heroku.com/node-habits-2016)
 * [mongoose: Referencing schema in properties or arrays](https://alexanderzeitler.com/articles/mongoose-referencing-schema-in-properties-and-arrays/)
-* [How to Dockerize your Node application](https://lucamezzalira.com/2016/04/03/how-to-dockerize-your-node-application/?utm_source=nodeweekly&utm_medium=email)
-* [SBoudrias/Inquirer.js: A collection of common interactive command line user interfaces](https://github.com/SBoudrias/Inquirer.js?utm_source=nodeweekly&utm_medium=email)
+* [How to Dockerize your Node application](https://lucamezzalira.com/2016/04/03/how-to-dockerize-your-node-application/)
+* [SBoudrias/Inquirer.js: A collection of common interactive command line user interfaces](https://github.com/SBoudrias/Inquirer.js)
 * PostgreSQL and NodeJS: [PostgreSQL Exercises](https://www.pgexercises.com/gettingstarted.html), [PostgreSQL and NodeJS](http://mherman.org/blog/2015/02/12/postgresql-and-nodejs/#.Vh-3vYSGX8v)
-* [Building an SMS Weather and Image Bot](http://blog.bandwidth.com/building-a-sms-weather-and-image-bot/?utm_medium=advertising&utm_source=node_weekly&utm_campaign=2016_Q3_job-478_sms_driven%20_bot_advertising&utm_content=job-478_sms_driven%20_bot)
+* [Building an SMS Weather and Image Bot](http://blog.bandwidth.com/building-a-sms-weather-and-image-bot/)
+* [WebSocket Security](https://devcenter.heroku.com/articles/websocket-security)
+* [Build a Twitch.tv Chat Bot in 10 Minutes with Node.js - YouTube video](https://www.youtube.com/watch?v=K6N9dSMb7sM)
+* [Build a Facebook Chat Bot](https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/)
 
 ##### Performance
 * [Optimizing Node.js Application Concurrency - Heroku](https://devcenter.heroku.com/articles/node-concurrency)
-* [Accelerating Node.js applications with HTTP/2 Server Push](https://blog.cloudflare.com/accelerating-node-js-applications-with-http-2-server-push/?utm_source=nodeweekly&utm_medium=email)
+* [Accelerating Node.js applications with HTTP/2 Server Push](https://blog.cloudflare.com/accelerating-node-js-applications-with-http-2-server-push/)
 
 ##### API
 * [Clusters](https://nodejs.org/api/cluster.html)
@@ -33,12 +34,12 @@
 * [Connect your app to Google](https://auth0.com/docs/connections/social/google)
 * [Easy Node Authentication: Google](https://scotch.io/tutorials/easy-node-authentication-google)
 * [Social Authentication in Node.js With Passport](http://mherman.org/blog/2015/09/26/social-authentication-in-node-dot-js-with-passport/#.V6BwG2W5B0I)
-* [Talking to OAuth2 Services with Node.js - Stormpath](https://stormpath.com/blog/talking-to-oauth2-services-with-nodejs/?utm_source=node-weekly&utm_medium=newsletter&utm_campaign=talking-oauth2-services)
-* [Node, Passport, and Postgres](http://mherman.org/blog/2016/09/25/node-passport-and-postgres/?utm_source=nodeweekly&utm_medium=email#.WCOWbHeZNdA)
+* [Talking to OAuth2 Services with Node.js - Stormpath](https://stormpath.com/blog/talking-to-oauth2-services-with-nodejs/)
+* [Node, Passport, and Postgres](http://mherman.org/blog/2016/09/25/node-passport-and-postgres/)
 
 ##### Beginners
 * [Node.js Tutorials for Beginners - YouTube PLaylist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_)
-* [Node Hero - Getting Started With Node.js](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js)
+* [Node Hero - Getting Started With Node.js](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js) and [Node.js at Scale - npm Best Practices](https://blog.risingstack.com/nodejs-at-scale-npm-best-practices/)
 * [MongoDB for Beginners Tutorials - YouTube Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDQ5DrbIl20Zu9hx1IjeVhO)
 
 
@@ -46,11 +47,14 @@
 * [Microsoft/nodejs-guidelines: Tips, tricks, and resources for working with Node.js, and the start of an ongoing conversation on how we can improve the Node.js experience on Microsoft platforms](https://github.com/Microsoft/nodejs-guidelines)
 
 #### Resources
-* [Node.js client library for Google Maps API Web Services](https://github.com/googlemaps/google-maps-services-js?utm_source=nodeweekly&utm_medium=email)
-* [Indexr - Automated dynamic indexes for your ES6+ source code.](https://www.npmjs.com/package/indexr?utm_source=nodeweekly&utm_medium=email)
+* [Node.js client library for Google Maps API Web Services](https://github.com/googlemaps/google-maps-services-js)
+* [Indexr - Automated dynamic indexes for your ES6+ source code.](https://www.npmjs.com/package/indexr)
 * [A CLI dashboard for webpack dev server](https://github.com/FormidableLabs/webpack-dashboard)
-* [Promise-based portable interface for running shell commands](https://github.com/asyncmax/pshell?utm_source=nodeweekly&utm_medium=email)
-* [Functional Microservice Request Library](https://github.com/poly/f?utm_source=nodeweekly&utm_medium=email)			
+* [nodejs-dashboard](https://github.com/FormidableLabs/nodejs-dashboard)
+* [Promise-based portable interface for running shell commands](https://github.com/asyncmax/pshell)
+* [Functional Microservice Request Library](https://github.com/poly/f)		
+* [Monitor Nodejs - Datadog](https://www.datadoghq.com/monitor-nodejs/)	
+* [Authenticate socket.io incoming connections with JWTs](https://github.com/auth0/socketio-jwt)
 
 ## Angular2
 #### Tutorials
@@ -64,8 +68,9 @@
 * [How to Deal with Different Form Controls in Angular 2](https://scotch.io/tutorials/how-to-deal-with-different-form-controls-in-angular-2)
 * [Equivalent of $compile in Angular 2](http://stackoverflow.com/questions/34784778/equivalent-of-compile-in-angular-2)
 * [How to build Angular 2 apps using Observable Data Services - Pitfalls to avoid](http://blog.angular-university.io/how-to-build-angular2-apps-using-rxjs-observable-data-services-pitfalls-to-avoid/)
-* [Testing Angular 2 Apps](https://developers.livechatinc.com/blog/testing-angular-2-apps-part-1-beginning/)
+* [Testing Angular 2 Apps](https://developers.livechatinc.com/blog/testing-angular-2-apps-part-1-beginning/), [and E2E testing](https://blog.jscrambler.com/getting-started-with-angular-2-end-to-end-testing/)
 * [Routing in Angular 2 Apps](http://blog.thoughtram.io/angular/2016/06/14/routing-in-angular-2-revisited.html)
+* [Build a Material Design app with Angular 2](http://www.creativebloq.com/how-to/build-a-material-design-app-with-angular-2)
 
 ##### Beginners
 * [A Beginners Guide to Ionic 2 Mobile Applications](http://x-team.com/2016/08/beginners-guide-ionic-2-mobile-applications/)
@@ -76,7 +81,7 @@
 
 #### Authentication
 * [Angular 2 Series - Tutorials by Auth0](https://auth0.com/blog/2015/09/03/angular2-series-working-with-pipes/)
-* [Angular 2 authentication with Auth0 and NodeJS](https://toddmotto.com/angular-2-authentication?utm_source=nodeweekly&utm_medium=email)
+* [Angular 2 authentication with Auth0 and NodeJS](https://toddmotto.com/angular-2-authentication)
 * [Introducing angular2-jwt: A Library for Angular 2 Authentication](https://auth0.com/blog/introducing-angular2-jwt-a-library-for-angular2-authentication/)
 * [Build your Angular 2 App: From Auth to calling an API](https://auth0.com/blog/2015/05/14/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between/)
 
@@ -143,4 +148,4 @@
 
 ## HTML
 #### Tutorials
-* [Instagram-style filters in HTML5 Canvas](https://www.viget.com/articles/instagram-style-filters-in-html5-canvas?utm_source=html5weekly&utm_medium=email)
+* [Instagram-style filters in HTML5 Canvas](https://www.viget.com/articles/instagram-style-filters-in-html5-canvas)
