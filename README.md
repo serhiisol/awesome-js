@@ -21,6 +21,7 @@
 * [WebSocket Security](https://devcenter.heroku.com/articles/websocket-security)
 * [Build a Twitch.tv Chat Bot in 10 Minutes with Node.js - YouTube video](https://www.youtube.com/watch?v=K6N9dSMb7sM)
 * [Build a Facebook Chat Bot](https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/)
+* [Communicating with Socket.io] (https://openclassrooms.com/courses/ultra-fast-applications-using-node-js/socket-io-let-s-go-to-real-time)
 
 ##### Performance
 * [Optimizing Node.js Application Concurrency - Heroku](https://devcenter.heroku.com/articles/node-concurrency)
