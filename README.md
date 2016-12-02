@@ -26,6 +26,7 @@
 ##### Performance
 * [Optimizing Node.js Application Concurrency - Heroku](https://devcenter.heroku.com/articles/node-concurrency)
 * [Accelerating Node.js applications with HTTP/2 Server Push](https://blog.cloudflare.com/accelerating-node-js-applications-with-http-2-server-push/)
+* [How to Create a Node.js Cluster for Speeding Up Your Apps](https://www.sitepoint.com/how-to-create-a-node-js-cluster-for-speeding-up-your-apps/)
 
 ##### API
 * [Clusters](https://nodejs.org/api/cluster.html)
