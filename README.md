@@ -67,12 +67,14 @@
 * [NG-NL 2016: Pascal Precht - Angular 2 Change Detection Explained](https://www.youtube.com/watch?v=CUxD91DWkGM)
 * [ViewChildren and ContentChildren in Angular 2](http://blog.mgechev.com/2016/01/23/angular2-viewchildren-contentchildren-difference-viewproviders/)
 * [Angular 2 Form Validation](https://medium.com/@daviddentoom/angular-2-form-validation-9b26f73fcb81#.52n8wf30g)
+* [Angular 2 form fundamentals: template-driven forms](https://toddmotto.com/angular-2-forms-template-driven)
 * [How to Deal with Different Form Controls in Angular 2](https://scotch.io/tutorials/how-to-deal-with-different-form-controls-in-angular-2)
 * [Equivalent of $compile in Angular 2](http://stackoverflow.com/questions/34784778/equivalent-of-compile-in-angular-2)
 * [How to build Angular 2 apps using Observable Data Services - Pitfalls to avoid](http://blog.angular-university.io/how-to-build-angular2-apps-using-rxjs-observable-data-services-pitfalls-to-avoid/)
 * [Testing Angular 2 Apps](https://developers.livechatinc.com/blog/testing-angular-2-apps-part-1-beginning/), [and E2E testing](https://blog.jscrambler.com/getting-started-with-angular-2-end-to-end-testing/)
 * [Routing in Angular 2 Apps](http://blog.thoughtram.io/angular/2016/06/14/routing-in-angular-2-revisited.html)
 * [Build a Material Design app with Angular 2](http://www.creativebloq.com/how-to/build-a-material-design-app-with-angular-2)
+* [Angular 2 Testing In Depth: Services](https://auth0.com/blog/angular-2-testing-in-depth-services)
 
 ##### Beginners
 * [A Beginners Guide to Ionic 2 Mobile Applications](http://x-team.com/2016/08/beginners-guide-ionic-2-mobile-applications/)
