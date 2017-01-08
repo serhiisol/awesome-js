@@ -58,6 +58,11 @@
 * [Monitor Nodejs - Datadog](https://www.datadoghq.com/monitor-nodejs/)	
 * [Authenticate socket.io incoming connections with JWTs](https://github.com/auth0/socketio-jwt)
 
+## RxJS
+* [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+* [RxJS Design Guidelines](https://github.com/Reactive-Extensions/RxJS/tree/master/doc/designguidelines)
+* [A collection of awesome RxJS resources](https://github.com/ichpuchtli/awesome-rxjs)
+
 ## Angular2
 #### Tutorials
 * [Angular 2 + React Native](http://angularjs.blogspot.com/2016/04/angular-2-react-native.html?view=flipcard)
@@ -141,6 +146,7 @@
 
 ## JS
 #### Tutorials
+* [Prototypal Inheritance in JavaScript](https://medium.com/@kevincennis/prototypal-inheritance-781bccc97edb)
 * [An Introduction to JavaScript ES6 Iterators](https://strongloop.com/strongblog/introduction-to-es6-iterators/)
 * [Understanding Reactive Programming and RxJS](https://auth0.com/blog/understanding-reactive-programming-and-rxjs/)
 
