@@ -9,24 +9,33 @@
 * [Input Validation in Express with express-validator](https://booker.codes/input-validation-in-express-with-express-validator/)
 * [How to keep your node processes running forever](http://blog.bithound.io/how-to-keep-your-node-processes-running-forever/)
 * [Debugging with Node](http://krasimirtsonev.com/blog/article/debugging-with-node)
-* [Building a photo search in a weekend - Elasticsearch + Docker](http://blog.sandeepchivukula.com/posts/2016/03/06/photo-search/)
 * [Adding Social Sharing in a Node.js Single-Page Application](http://code.tutsplus.com/tutorials/adding-social-sharing-in-a-nodejs-single-page-application--cms-25530)
 * [Web Crawling with Node, PhantomJS and Horseman](https://www.sitepoint.com/web-crawling-node-phantomjs-horseman/)
-* [10 Habits of a Happy Node Hacker (2016) - Heroku](https://blog.heroku.com/node-habits-2016)
 * [mongoose: Referencing schema in properties or arrays](https://alexanderzeitler.com/articles/mongoose-referencing-schema-in-properties-and-arrays/)
-* [How to Dockerize your Node application](https://lucamezzalira.com/2016/04/03/how-to-dockerize-your-node-application/)
 * [SBoudrias/Inquirer.js: A collection of common interactive command line user interfaces](https://github.com/SBoudrias/Inquirer.js)
 * PostgreSQL and NodeJS: [PostgreSQL Exercises](https://www.pgexercises.com/gettingstarted.html), [PostgreSQL and NodeJS](http://mherman.org/blog/2015/02/12/postgresql-and-nodejs/#.Vh-3vYSGX8v)
 * [Building an SMS Weather and Image Bot](http://blog.bandwidth.com/building-a-sms-weather-and-image-bot/)
-* [WebSocket Security](https://devcenter.heroku.com/articles/websocket-security)
 * [Build a Twitch.tv Chat Bot in 10 Minutes with Node.js - YouTube video](https://www.youtube.com/watch?v=K6N9dSMb7sM)
 * [Build a Facebook Chat Bot](https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/)
-* [Communicating with Socket.io] (https://openclassrooms.com/courses/ultra-fast-applications-using-node-js/socket-io-let-s-go-to-real-time)
+* [Communicating with Socket.io](https://openclassrooms.com/courses/ultra-fast-applications-using-node-js/socket-io-let-s-go-to-real-time)
+* [Running Express, Koa And Hapi On HTTP/2](http://ivanjov.com/running-express-koa-and-hapi-on-http-2/)
+
+##### Heroku
+* [10 Habits of a Happy Node Hacker (2016) - Heroku](https://blog.heroku.com/node-habits-2016)
+* [Using Heroku with Node.js: Production-Ready Application Checklist](https://community.risingstack.com/using-heroku-node-js-production-ready-application-checklist/)
+* [WebSocket Security](https://devcenter.heroku.com/articles/websocket-security)
+* [Deploy a javascript/Node app to Heroku in 20 minutes](http://vitomd.com/blog/coding/deploy-a-javascript-node-app-to-heroku-in-20-minutes/)
+
+##### Docker
+* [How to Dockerize your Node application](https://lucamezzalira.com/2016/04/03/how-to-dockerize-your-node-application/)
+* [Building a photo search in a weekend - Elasticsearch + Docker](http://blog.sandeepchivukula.com/posts/2016/03/06/photo-search/)
+* [https://www.jjude.com/hapijs-on-docker/](https://www.jjude.com/hapijs-on-docker/)
 
 ##### Performance
 * [Optimizing Node.js Application Concurrency - Heroku](https://devcenter.heroku.com/articles/node-concurrency)
 * [Accelerating Node.js applications with HTTP/2 Server Push](https://blog.cloudflare.com/accelerating-node-js-applications-with-http-2-server-push/)
 * [How to Create a Node.js Cluster for Speeding Up Your Apps](https://www.sitepoint.com/how-to-create-a-node-js-cluster-for-speeding-up-your-apps/)
+* [(More than) one million requests per second in Node.js](https://github.com/uWebSockets/uWebSockets/wiki/(More-than)-one-million-requests-per-second-in-Node.js)
 
 ##### API
 * [Clusters](https://nodejs.org/api/cluster.html)
@@ -149,6 +158,7 @@
 * [Prototypal Inheritance in JavaScript](https://medium.com/@kevincennis/prototypal-inheritance-781bccc97edb)
 * [An Introduction to JavaScript ES6 Iterators](https://strongloop.com/strongblog/introduction-to-es6-iterators/)
 * [Understanding Reactive Programming and RxJS](https://auth0.com/blog/understanding-reactive-programming-and-rxjs/)
+* [5 Brilliant Ways to Lazy Load Images For Faster Page Loads](http://blog.dynamicdrive.com/5-brilliant-ways-to-lazy-load-images-for-faster-page-loads/)
 
 #### Resources
 * [CSV Parser for JavaScript](http://papaparse.com)
