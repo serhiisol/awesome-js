@@ -19,6 +19,7 @@
 * [Build a Facebook Chat Bot](https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/)
 * [Communicating with Socket.io](https://openclassrooms.com/courses/ultra-fast-applications-using-node-js/socket-io-let-s-go-to-real-time)
 * [Running Express, Koa And Hapi On HTTP/2](http://ivanjov.com/running-express-koa-and-hapi-on-http-2/)
+* [Create a Continuous Deployment Pipeline with Node.js and Jenkins](https://blog.couchbase.com/create-continuous-deployment-pipeline-nodejs-jenkins/)
 
 ##### Heroku
 * [10 Habits of a Happy Node Hacker (2016) - Heroku](https://blog.heroku.com/node-habits-2016)
@@ -54,9 +55,10 @@
 * [MongoDB for Beginners Tutorials - YouTube Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDQ5DrbIl20Zu9hx1IjeVhO)
 
 
-#### Code style
+#### Code style / Best Practices
 * [Microsoft/nodejs-guidelines: Tips, tricks, and resources for working with Node.js, and the start of an ongoing conversation on how we can improve the Node.js experience on Microsoft platforms](https://github.com/Microsoft/nodejs-guidelines)
 * [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/)
+* [13 best practices to secure your web application](http://nodewebapps.com/2017/01/03/13-security-best-practices-for-your-web-application)
 
 #### Resources
 * [Node.js client library for Google Maps API Web Services](https://github.com/googlemaps/google-maps-services-js)
@@ -98,6 +100,8 @@
 * [Optimizing Angular 2 Apps - YouTube video](https://www.youtube.com/watch?v=_VnV7R4Ncwc)
 * [5 Rookie Mistakes to Avoid with Angular 2](http://angularjs.blogspot.de/2016/04/5-rookie-mistakes-to-avoid-with-angular.html)
 * [Building an Angular Application for Production](http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/)
+* [MAKING YOUR ANGULAR APPS FAST by Thoughtram](https://blog.thoughtram.io/angular/2017/02/02/making-your-angular-app-fast.html)
+
 
 #### Authentication
 * [Angular 2 Series - Tutorials by Auth0](https://auth0.com/blog/2015/09/03/angular2-series-working-with-pipes/)
