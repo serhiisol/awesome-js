@@ -56,6 +56,7 @@
 
 #### Code style
 * [Microsoft/nodejs-guidelines: Tips, tricks, and resources for working with Node.js, and the start of an ongoing conversation on how we can improve the Node.js experience on Microsoft platforms](https://github.com/Microsoft/nodejs-guidelines)
+* [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/)
 
 #### Resources
 * [Node.js client library for Google Maps API Web Services](https://github.com/googlemaps/google-maps-services-js)
@@ -96,6 +97,7 @@
 #### Performance
 * [Optimizing Angular 2 Apps - YouTube video](https://www.youtube.com/watch?v=_VnV7R4Ncwc)
 * [5 Rookie Mistakes to Avoid with Angular 2](http://angularjs.blogspot.de/2016/04/5-rookie-mistakes-to-avoid-with-angular.html)
+* [Building an Angular Application for Production](http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/)
 
 #### Authentication
 * [Angular 2 Series - Tutorials by Auth0](https://auth0.com/blog/2015/09/03/angular2-series-working-with-pipes/)
