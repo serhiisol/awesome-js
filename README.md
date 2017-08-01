@@ -69,6 +69,7 @@
 * [Microsoft/nodejs-guidelines: Tips, tricks, and resources for working with Node.js, and the start of an ongoing conversation on how we can improve the Node.js experience on Microsoft platforms](https://github.com/Microsoft/nodejs-guidelines)
 * [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/)
 * [13 best practices to secure your web application](http://nodewebapps.com/2017/01/03/13-security-best-practices-for-your-web-application)
+* [Checklist: Node.JS production best practices](http://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/)
 
 #### Resources
 * [Node.js client library for Google Maps API Web Services](https://github.com/googlemaps/google-maps-services-js)
