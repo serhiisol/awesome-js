@@ -171,7 +171,13 @@
 * [Optimize a JavaScript file for faster initial load by wrapping eagerly-invoked functions](https://github.com/nolanlawson/optimize-js)
 * [clipboard.js - A modern approach to copy text to clipboard](https://clipboardjs.com)
 
+#### Code style
+* [Microsoft TypeScript Coding guidelines](https://github.com/Microsoft/TypeScript/wiki/Coding-guidelines)
+* [Airbnb JavaScript Style Guide()](https://github.com/airbnb/javascript)
+* [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 ## HTML
 #### Tutorials
 * [Instagram-style filters in HTML5 Canvas](https://www.viget.com/articles/instagram-style-filters-in-html5-canvas)
+#### Code style
+* [Code Guide by @mdo - HTML/CSS Guidelines](http://codeguide.co)
