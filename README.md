@@ -112,6 +112,7 @@
 * [5 Rookie Mistakes to Avoid with Angular 2](http://angularjs.blogspot.de/2016/04/5-rookie-mistakes-to-avoid-with-angular.html)
 * [Building an Angular Application for Production](http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/)
 * [MAKING YOUR ANGULAR APPS FAST by Thoughtram](https://blog.thoughtram.io/angular/2017/02/02/making-your-angular-app-fast.html)
+* [Angular in Production](http://blog.mgechev.com/2017/01/17/angular-in-production/)
 
 
 #### Authentication
