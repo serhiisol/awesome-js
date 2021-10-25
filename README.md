@@ -16,7 +16,6 @@
 
 ## NodeJS
 #### Tutorials
-* [Input Validation in Express with express-validator](https://booker.codes/input-validation-in-express-with-express-validator/)
 * [How to keep your node processes running forever](http://blog.bithound.io/how-to-keep-your-node-processes-running-forever/)
 * [Debugging with Node](http://krasimirtsonev.com/blog/article/debugging-with-node)
 * [Adding Social Sharing in a Node.js Single-Page Application](http://code.tutsplus.com/tutorials/adding-social-sharing-in-a-nodejs-single-page-application--cms-25530)
@@ -39,8 +38,6 @@
 
 ##### Docker
 * [How to Dockerize your Node application](https://lucamezzalira.com/2016/04/03/how-to-dockerize-your-node-application/)
-* [Building a photo search in a weekend - Elasticsearch + Docker](http://blog.sandeepchivukula.com/posts/2016/03/06/photo-search/)
-* [https://www.jjude.com/hapijs-on-docker/](https://www.jjude.com/hapijs-on-docker/)
 
 ##### Performance
 * [Optimizing Node.js Application Concurrency - Heroku](https://devcenter.heroku.com/articles/node-concurrency)
@@ -79,6 +76,7 @@
 * [Promise-based portable interface for running shell commands](https://github.com/asyncmax/pshell)
 * [Functional Microservice Request Library](https://github.com/poly/f)		
 * [Monitor Nodejs - Datadog](https://www.datadoghq.com/monitor-nodejs/)	
+* [Monitor, manage and alert on Node.js - Logit.io](https://logit.io/sources/configure/nodejs)	
 * [Authenticate socket.io incoming connections with JWTs](https://github.com/auth0/socketio-jwt)
 
 ## RxJS
@@ -158,7 +156,6 @@
 #### Tutorials
 * [React JS Tutorial for Beginners Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBhLZx_5C-jqECBE4HIID_k)
 * [Build a React + Flux App with User Authentication](https://scotch.io/tutorials/build-a-react-flux-app-with-user-authentication)
-* [React with Webpack + Meteor as a backend](http://julian.io/react-with-webpack-meteor-as-a-backend/)
 * [React Tutorial: Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
 * [How to Create a Redux-Form with Validation and Initialized Values](http://www.davidmeents.com/create-redux-form-validation-initialized-values/)
 
@@ -168,14 +165,9 @@
 #### Code style
 * [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)
 
-#### Resources
-* [HTML5 Drag and Drop File Upload React Component - GitHub Gist](https://gist.github.com/realseanp/cefe1727533619f340bb2aee5e1339af?cache=off)
-
-
 ## JS
 #### Tutorials
 * [Prototypal Inheritance in JavaScript](https://medium.com/@kevincennis/prototypal-inheritance-781bccc97edb)
-* [An Introduction to JavaScript ES6 Iterators](https://strongloop.com/strongblog/introduction-to-es6-iterators/)
 * [Understanding Reactive Programming and RxJS](https://auth0.com/blog/understanding-reactive-programming-and-rxjs/)
 * [5 Brilliant Ways to Lazy Load Images For Faster Page Loads](http://blog.dynamicdrive.com/5-brilliant-ways-to-lazy-load-images-for-faster-page-loads/)
 
